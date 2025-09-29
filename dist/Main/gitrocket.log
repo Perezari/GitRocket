@@ -1,0 +1,12 @@
+2025-09-14 08:02:36,897 - INFO - Gemini AI configured successfully.
+2025-09-14 08:02:36,939 - INFO - Assets path configured: C:\Users\ari\Documents\GitHub\GitRocket\dist\Main\assets
+2025-09-14 08:02:36,941 - INFO - Starting up TCP server on localhost:55415
+2025-09-14 08:02:36,949 - INFO - Flet app has started...
+2025-09-14 08:02:36,950 - INFO - App URL: tcp://localhost:55415
+2025-09-14 08:02:36,950 - INFO - Starting Flet View app...
+2025-09-14 08:02:36,950 - INFO - Looking for Flet executable at: C:\Users\ari\Documents\GitHub\GitRocket\dist\Main\_internal\flet_desktop\app\flet\flet.exe
+2025-09-14 08:02:37,376 - INFO - App session started
+2025-09-14 08:02:37,377 - INFO - --- Validating Environment ---
+2025-09-14 08:02:37,684 - INFO - Git validation successful: git version 2.42.0.windows.2
+2025-09-14 08:02:37,684 - INFO - .env file with GEMINI_API_KEY found.
+2025-09-14 08:02:37,684 - INFO - --- Environment Validation Complete ---
